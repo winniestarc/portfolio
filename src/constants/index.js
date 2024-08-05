@@ -179,7 +179,7 @@ const experiences = [
     date: 'June 2020 - July 2022',
   },
   {
-    title: 'Lead Front-End Developer',
+    title: 'Lead FullStack Developer',
     company_name: 'poktpool',
     icon: poktpool_com,
     iconBg: '#333333',
